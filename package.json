@@ -1,14 +1,15 @@
 {
   "name": "florist-theme",
   "displayName": "Florist Theme",
-  "description": "A light-purple dark color theme",
-  "version": "0.0.1",
+  "description": "A light-purple color theme",
+  "version": "0.0.2",
   "publisher": "magnush",
   "auther": "Magnus Hvidtfeldt",
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mch-sg/florist-theme"},
+    "url": "https://github.com/mch-sg/florist-theme"
+  },
   "keywords": [
     "themes",
     "vscode",
@@ -38,9 +39,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Florist Theme",
+        "label": "Florist Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/florist-color-theme.json"
+      },
+      {
+        "label": "Florist Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/florist-light-color-theme.json"
       }
     ]
   }
