@@ -1,6 +1,26 @@
 {
   "name": "Florist",
   "type": "dark",
+  "displayName": "Florist Theme",
+	"description": "A light-purple dark color theme",
+	"publisher": "magnush",
+	"keywords": [
+    "themes",
+    "vscode",
+    "dark theme",
+    "purple",
+    "light purple",
+    "florist",
+    "florist theme",
+    "flower theme",
+    "flowers",
+    "floral",
+    "floral theme",
+    "floral colors",
+    "purple color theme",
+    "purple theme"
+	],
+
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
@@ -13,6 +33,7 @@
       "foreground": "#937ac0"
     }
   },
+
   "tokenColors": [
     {
       "name": "unison punctuation",

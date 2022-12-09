@@ -1,10 +1,35 @@
 {
   "name": "florist-theme",
   "displayName": "Florist Theme",
-  "description": "A light purple dark color theme",
+  "description": "A light-purple dark color theme",
   "version": "0.0.1",
   "publisher": "magnush",
-  
+  "auther": "Magnus Hvidtfeldt",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mch-sg/florist-theme"},
+  "keywords": [
+    "themes",
+    "vscode",
+    "dark theme",
+    "purple",
+    "light purple",
+    "florist",
+    "florist theme",
+    "flower theme",
+    "flowers",
+    "floral",
+    "floral theme",
+    "floral colors",
+    "purple color theme",
+    "purple theme"
+  ],
+  "galleryBanner": {
+    "color": "#0e0a13",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
