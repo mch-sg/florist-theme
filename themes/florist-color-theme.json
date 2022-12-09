@@ -1,7 +1,7 @@
 {
   "name": "florist-dark",
   "type": "dark",
-  "displayName": "Florist Dark Theme",
+  "displayName": "Florist Dark",
 	"description": "A light-purple dark color theme",
 	"publisher": "magnush",
 	"keywords": [
@@ -398,7 +398,7 @@
       "name": "js console function",
       "scope": "entity.name.function,support.function.console",
       "settings": {
-        "foreground": "#cdb8ab"
+        "foreground": "#bfb1a8" // name #cdb8ab
       }
     },
     {
@@ -757,7 +757,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#a2738f"
+        "foreground": "#A2738F" // ss strings #a2738f
       }
     },
     {
@@ -806,7 +806,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#a2738f"
+        "foreground": "#937AC0" // bb #a2738f
       }
     },
     {
@@ -1059,7 +1059,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#a2738f"
+        "foreground": "#a2738f" // #a2738f aa
       }
     },
     {
@@ -1393,7 +1393,7 @@
         "variable.parameter.function.js"
       ],
       "settings": {
-        "foreground": "#746187"
+        "foreground": "#746187" //var #746187
       }
     },
     {
@@ -1934,7 +1934,7 @@
     "textLink.foreground": "#48384f",
     "editor.background": "#0e0a13",
     "editor.foreground": "#d4d4d4",
-    "editorLineNumber.foreground": "#858585",
+    "editorLineNumber.foreground": "#595765ab",
     "editorCursor.foreground": "#aeafad",
     "editorCursor.background": "#000000",
     "editor.selectionBackground": "#473242",
