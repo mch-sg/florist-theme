@@ -1954,7 +1954,7 @@
     "editor.wordHighlightStrongBackground": "#473242",
     "editor.wordHighlightBackground": "#575757b8",
     "editor.lineHighlightBackground": "#ffffff0A",
-    "editor.lineHighlightBorder": "#282828",
+    // "editor.lineHighlightBorder": "#282828",
     "editorLineNumber.activeForeground": "#c6c6c6",
     "editorLink.activeForeground": "#b05a9b",
     "editorIndentGuide.background": "#404040",
